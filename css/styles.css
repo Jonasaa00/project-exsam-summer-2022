@@ -76,6 +76,36 @@ li a:hover{
     object-fit: cover;
 }
 
+.footer {
+    padding: 40px 0;
+    background-color: #4F4F4F;
+}
+
+.footer .social {
+    text-align: center;
+    padding-bottom: 25px;
+    color: #DE3B3B;
+
+}
+
+.footer .social a{
+    font-size: 24px;
+    color: inherit;
+    border: 1px solid #DE3B3B;
+    width: 40px;
+    height: 40px;
+    line-height: 38px;
+    display: inline-block;
+    text-align: center;
+    border-radius: 50%;
+    margin: 0 8px;
+    opacity: 0.75;
+}
+
+footer .social a:hover{
+    opacity: 0.;
+
+}
 
 
 
